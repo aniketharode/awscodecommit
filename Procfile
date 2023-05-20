@@ -1,0 +1,1 @@
+web: java -Dfile.encoding=UTF-8 -Xms2g -Xmx2g -jar SpringAwsFunctionNew-2-0.0.1-SNAPSHOT.jar
